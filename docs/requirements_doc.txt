@@ -1,0 +1,3 @@
+sphinex >= 2
+alabaster
+sphinx_rtd_theme
