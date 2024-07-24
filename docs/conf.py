@@ -24,7 +24,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.coverage",
     "sphinx.ext.napoleon",
-    "numpydoc",
 ]
 
 templates_path = ["_templates"]
