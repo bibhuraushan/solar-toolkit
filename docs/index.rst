@@ -1,7 +1,7 @@
 
 Welcome to solar-toolkit's documentation!
 =========================================
-.. automodule:: solar_toolkit.datatools
+.. automodule:: solar_toolkit.datatools.datadownloader
     :members:
 
 
